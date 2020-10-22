@@ -1,4 +1,7 @@
 # kazuyuki8
+
+<img src="pic.jpg" width="200">
+
 大友　和幸
 
 ## 技術
