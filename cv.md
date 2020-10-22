@@ -8,8 +8,8 @@
 
 ### Deep Learning for NLP サマースクール(東大松尾研主催) 修了
 > - LSTMやTransformerなどの原理について学習
-- PyTorchを使用してそれらを実装
-- [公式HP NLPサマースクール](https://deeplearning.jp/deep-learning-for-nlp-2020s/)
+> - PyTorchを使用してそれらを実装
+> - [公式HP NLPサマースクール](https://deeplearning.jp/deep-learning-for-nlp-2020s/)
 
 ### その他
 Python, PyTorch, R(それぞれ初心者レベル)
