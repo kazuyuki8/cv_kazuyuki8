@@ -15,8 +15,7 @@
 > - [公式HP NLPサマースクール](https://deeplearning.jp/deep-learning-for-nlp-2020s/)
 
 ### その他
-Python, PyTorch, R(それぞれ初心者レベル)
-
+Python, PyTorch, R
 ## 学歴
 
 ### 慶応大学 環境情報学部(2016 - )
