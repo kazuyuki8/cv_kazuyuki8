@@ -3,19 +3,6 @@
 <img src="pic.jpg" width="200">
 
 大友　和幸
-
-## 技術
-### 統計検定　2級
-> - 基礎的な仮説検定や線形回帰などを中心に学習
-> - [公式HP 統計検定2級](https://www.toukei-kentei.jp/about/grade2/)
-
-### Deep Learning for NLP サマースクール(東大松尾研主催) 修了
-> - LSTMやTransformerなどの原理について学習
-> - PyTorchを使用してそれらを実装
-> - [公式HP NLPサマースクール](https://deeplearning.jp/deep-learning-for-nlp-2020s/)
-
-### その他
-Python, PyTorch, R
 ## 学歴
 
 ### 慶応大学 環境情報学部(2016 - )
@@ -29,6 +16,19 @@ Python, PyTorch, R
 
 ### 埼玉県立川越高校(2012 - 2015)
 > 物理部
+
+## 技術
+### その他
+Python, PyTorch, R(初心者レベル)
+
+### 統計検定　2級
+> - 基礎的な仮説検定や線形回帰などを中心に学習
+> - [公式HP 統計検定2級](https://www.toukei-kentei.jp/about/grade2/)
+
+### Deep Learning for NLP サマースクール(東大松尾研主催) 修了
+> - LSTMやTransformerなどの原理について学習
+> - PyTorchを使用してそれらを実装
+> - [公式HP NLPサマースクール](https://deeplearning.jp/deep-learning-for-nlp-2020s/)
 
 ## 興味分野
 - データ分析, 機械学習, 深層学習, 自然言語処理
